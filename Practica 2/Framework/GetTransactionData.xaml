@@ -7,7 +7,6 @@
     <x:Property Name="out_TransactionField2" Type="OutArgument(x:String)" />
     <x:Property Name="out_TransactionID" Type="OutArgument(x:String)" />
     <x:Property Name="io_TransactionData" Type="InOutArgument(sd:DataTable)" />
-    <x:Property Name="in_WIList" Type="InArgument(ui:QueueItem[])" />
   </x:Members>
   <mva:VisualBasic.Settings>
     <x:Null />
