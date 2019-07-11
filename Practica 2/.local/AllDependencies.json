@@ -1076,9 +1076,9 @@
     "restore": {
       "projectUniqueName": "Practica2",
       "projectName": "Practica2",
-      "projectPath": "C:\\Users\\frmohino\\Indra\\OneDrive - Indra\\UIPath\\Level 3\\Practica 2\\Practica 2\\.local",
+      "projectPath": "C:\\Users\\frmohino\\Indra\\OneDrive - Indra\\Git\\UIPath\\Practica 2\\.local",
       "packagesPath": "C:\\Users\\frmohino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frmohino\\Indra\\OneDrive - Indra\\UIPath\\Level 3\\Practica 2\\Practica 2\\.local"
+      "outputPath": "C:\\Users\\frmohino\\Indra\\OneDrive - Indra\\Git\\UIPath\\Practica 2\\.local"
     },
     "frameworks": {
       "net461": {
